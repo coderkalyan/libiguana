@@ -1,0 +1,16 @@
+.{
+    .name = .libiguana,
+    .version = "0.0.2",
+    .fingerprint = 0x5f0593d310cf50c1, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.15.0",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+}
