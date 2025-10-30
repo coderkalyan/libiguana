@@ -1,6 +1,6 @@
 .{
     .name = .iguana,
-    .version = "0.0.2",
+    .version = "0.0.3",
     .minimum_zig_version = "0.15.0",
 
     // Together with name, this represents a globally unique package
